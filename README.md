@@ -14,6 +14,10 @@ A web-based database management tool to connect to various databases from Intagr
 
 See [SETUP.md](SETUP.md) for detailed installation instructions.
 
+**Для пользователей Windows 10**: См. [WINDOWS_SETUP_RU.md](WINDOWS_SETUP_RU.md) для подробной инструкции по установке на русском языке.
+
+**For Windows 10 users**: See [WINDOWS_SETUP_RU.md](WINDOWS_SETUP_RU.md) for detailed installation instructions in Russian.
+
 ### Backend
 ```bash
 cd backend
